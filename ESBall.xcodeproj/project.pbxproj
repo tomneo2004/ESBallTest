@@ -536,6 +536,7 @@
 		52783B5B16942271009D8028 /* PhoneLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52783B5516942271009D8028 /* PhoneLoginViewController.m */; };
 		52783B5C16942271009D8028 /* PhoneMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52783B5716942271009D8028 /* PhoneMainViewController.m */; };
 		52783B5D16942271009D8028 /* PhoneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52783B5916942271009D8028 /* PhoneViewController.m */; };
+		5281026F1695159000FE27EB /* aaaa.m in Sources */ = {isa = PBXBuildFile; fileRef = 5281026E1695159000FE27EB /* aaaa.m */; };
 		529351731680095300EE8317 /* SportSectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 529351721680095300EE8317 /* SportSectionViewController.m */; };
 		5293517B168009C900EE8317 /* LotterySectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5293517A168009C900EE8317 /* LotterySectionViewController.m */; };
 		529354D71680460F00EE8317 /* PadDragonTigerGameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 529354D61680460F00EE8317 /* PadDragonTigerGameViewController.m */; };
@@ -1183,6 +1184,8 @@
 		52783B5716942271009D8028 /* PhoneMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhoneMainViewController.m; sourceTree = "<group>"; };
 		52783B5816942271009D8028 /* PhoneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhoneViewController.h; sourceTree = "<group>"; };
 		52783B5916942271009D8028 /* PhoneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhoneViewController.m; sourceTree = "<group>"; };
+		5281026D1695159000FE27EB /* aaaa.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aaaa.h; sourceTree = "<group>"; };
+		5281026E1695159000FE27EB /* aaaa.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = aaaa.m; sourceTree = "<group>"; };
 		529351711680095300EE8317 /* SportSectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SportSectionViewController.h; path = SportSectionClasses/SportSectionViewController.h; sourceTree = "<group>"; };
 		529351721680095300EE8317 /* SportSectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SportSectionViewController.m; path = SportSectionClasses/SportSectionViewController.m; sourceTree = "<group>"; };
 		52935179168009C900EE8317 /* LotterySectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LotterySectionViewController.h; path = LotterySectionClasses/LotterySectionViewController.h; sourceTree = "<group>"; };
@@ -1421,6 +1424,8 @@
 				52783B5716942271009D8028 /* PhoneMainViewController.m */,
 				52783B5816942271009D8028 /* PhoneViewController.h */,
 				52783B5916942271009D8028 /* PhoneViewController.m */,
+				5281026D1695159000FE27EB /* aaaa.h */,
+				5281026E1695159000FE27EB /* aaaa.m */,
 			);
 			path = PhoneClasses;
 			sourceTree = "<group>";
@@ -3563,6 +3568,7 @@
 				52783B5B16942271009D8028 /* PhoneLoginViewController.m in Sources */,
 				52783B5C16942271009D8028 /* PhoneMainViewController.m in Sources */,
 				52783B5D16942271009D8028 /* PhoneViewController.m in Sources */,
+				5281026F1695159000FE27EB /* aaaa.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
