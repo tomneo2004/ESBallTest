@@ -38,6 +38,7 @@
 		44828751166369BA00CCA5ED /* selectionIndicatorImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 4482874A166369BA00CCA5ED /* selectionIndicatorImage.png */; };
 		44828752166369BA00CCA5ED /* selectionIndicatorImage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4482874B166369BA00CCA5ED /* selectionIndicatorImage@2x.png */; };
 		4482876816636B3500CCA5ED /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4482876716636B3500CCA5ED /* QuartzCore.framework */; };
+		521334ED169523B4005F665E /* object.m in Sources */ = {isa = PBXBuildFile; fileRef = 521334EC169523B4005F665E /* object.m */; };
 		5219C76316786B7D00AA4A90 /* LoadingHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 5219C76216786B7D00AA4A90 /* LoadingHUD.m */; };
 		5219C767167878D500AA4A90 /* FileFinder.m in Sources */ = {isa = PBXBuildFile; fileRef = 5219C766167878D500AA4A90 /* FileFinder.m */; };
 		522C55AD169520B90035EF8A /* asdfasdfasdf.m in Sources */ = {isa = PBXBuildFile; fileRef = 522C55AC169520B90035EF8A /* asdfasdfasdf.m */; };
@@ -641,6 +642,8 @@
 		4482874A166369BA00CCA5ED /* selectionIndicatorImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = selectionIndicatorImage.png; sourceTree = "<group>"; };
 		4482874B166369BA00CCA5ED /* selectionIndicatorImage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "selectionIndicatorImage@2x.png"; sourceTree = "<group>"; };
 		4482876716636B3500CCA5ED /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		521334EB169523B4005F665E /* object.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = object.h; sourceTree = "<group>"; };
+		521334EC169523B4005F665E /* object.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = object.m; sourceTree = "<group>"; };
 		5219C76116786B7D00AA4A90 /* LoadingHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoadingHUD.h; path = HUD/LoadingHUD.h; sourceTree = "<group>"; };
 		5219C76216786B7D00AA4A90 /* LoadingHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoadingHUD.m; path = HUD/LoadingHUD.m; sourceTree = "<group>"; };
 		5219C765167878D500AA4A90 /* FileFinder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FileFinder.h; path = FileFinder/FileFinder.h; sourceTree = "<group>"; };
@@ -1374,6 +1377,8 @@
 				529351741680096600EE8317 /* LotterySectionClasses */,
 				5293516F168008EA00EE8317 /* SportSectionClasses */,
 				4482871B1663697200CCA5ED /* VideoSectionClasses */,
+				521334EB169523B4005F665E /* object.h */,
+				521334EC169523B4005F665E /* object.m */,
 			);
 			path = PadClasses;
 			sourceTree = "<group>";
@@ -3575,6 +3580,7 @@
 				52783B5D16942271009D8028 /* PhoneViewController.m in Sources */,
 				5281026F1695159000FE27EB /* aaaa.m in Sources */,
 				522C55AD169520B90035EF8A /* asdfasdfasdf.m in Sources */,
+				521334ED169523B4005F665E /* object.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
