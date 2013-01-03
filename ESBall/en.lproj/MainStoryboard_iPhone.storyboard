@@ -1991,11 +1991,6 @@
         <class className="CommonBaccaratGameViewController" superclassName="BaseGameViewController">
             <source key="sourceIdentifier" type="project" relativePath="./Classes/CommonBaccaratGameViewController.h"/>
             <relationships>
-                <relationship kind="action" name="back:"/>
-                <relationship kind="action" name="betConfirm:"/>
-                <relationship kind="action" name="clearBet:"/>
-                <relationship kind="action" name="detail:"/>
-                <relationship kind="action" name="roadmap:"/>
                 <relationship kind="outlet" name="backButton" candidateClass="UIButton"/>
                 <relationship kind="outlet" name="backgroundImageView" candidateClass="UIImageView"/>
                 <relationship kind="outlet" name="betAreaView" candidateClass="BetView"/>
@@ -2104,7 +2099,6 @@
         <class className="PadLoginViewController" superclassName="BaseLoginViewController">
             <source key="sourceIdentifier" type="project" relativePath="./Classes/PadLoginViewController.h"/>
             <relationships>
-                <relationship kind="action" name="login:"/>
                 <relationship kind="outlet" name="backgroundImageView" candidateClass="UIImageView"/>
                 <relationship kind="outlet" name="loginButton" candidateClass="UIButton"/>
             </relationships>
