@@ -40,6 +40,7 @@
 		4482876816636B3500CCA5ED /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4482876716636B3500CCA5ED /* QuartzCore.framework */; };
 		5219C76316786B7D00AA4A90 /* LoadingHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 5219C76216786B7D00AA4A90 /* LoadingHUD.m */; };
 		5219C767167878D500AA4A90 /* FileFinder.m in Sources */ = {isa = PBXBuildFile; fileRef = 5219C766167878D500AA4A90 /* FileFinder.m */; };
+		522C55AD169520B90035EF8A /* asdfasdfasdf.m in Sources */ = {isa = PBXBuildFile; fileRef = 522C55AC169520B90035EF8A /* asdfasdfasdf.m */; };
 		523C9B0A1675813800CC9D9D /* GameDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 523C9B091675813800CC9D9D /* GameDetailViewController.m */; };
 		523C9B191675B84900CC9D9D /* SubDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 523C9B181675B84900CC9D9D /* SubDetailViewController.m */; };
 		524529381682ED8D00486C6E /* DTGameBetLimitViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 524529371682ED8D00486C6E /* DTGameBetLimitViewController.m */; };
@@ -644,6 +645,8 @@
 		5219C76216786B7D00AA4A90 /* LoadingHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoadingHUD.m; path = HUD/LoadingHUD.m; sourceTree = "<group>"; };
 		5219C765167878D500AA4A90 /* FileFinder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FileFinder.h; path = FileFinder/FileFinder.h; sourceTree = "<group>"; };
 		5219C766167878D500AA4A90 /* FileFinder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FileFinder.m; path = FileFinder/FileFinder.m; sourceTree = "<group>"; };
+		522C55AB169520B90035EF8A /* asdfasdfasdf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = asdfasdfasdf.h; sourceTree = "<group>"; };
+		522C55AC169520B90035EF8A /* asdfasdfasdf.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = asdfasdfasdf.m; sourceTree = "<group>"; };
 		523C9B081675813800CC9D9D /* GameDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GameDetailViewController.h; path = GameDetail/GameDetailViewController.h; sourceTree = "<group>"; };
 		523C9B091675813800CC9D9D /* GameDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GameDetailViewController.m; path = GameDetail/GameDetailViewController.m; sourceTree = "<group>"; };
 		523C9B171675B84900CC9D9D /* SubDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SubDetailViewController.h; path = GameDetail/SubDetailViewController/SubDetailViewController.h; sourceTree = "<group>"; };
@@ -1426,6 +1429,8 @@
 				52783B5916942271009D8028 /* PhoneViewController.m */,
 				5281026D1695159000FE27EB /* aaaa.h */,
 				5281026E1695159000FE27EB /* aaaa.m */,
+				522C55AB169520B90035EF8A /* asdfasdfasdf.h */,
+				522C55AC169520B90035EF8A /* asdfasdfasdf.m */,
 			);
 			path = PhoneClasses;
 			sourceTree = "<group>";
@@ -3569,6 +3574,7 @@
 				52783B5C16942271009D8028 /* PhoneMainViewController.m in Sources */,
 				52783B5D16942271009D8028 /* PhoneViewController.m in Sources */,
 				5281026F1695159000FE27EB /* aaaa.m in Sources */,
+				522C55AD169520B90035EF8A /* asdfasdfasdf.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
