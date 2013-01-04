@@ -572,6 +572,7 @@
 		5296BD50168BF343008FC969 /* PadDragonTigerPokerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5296BD4F168BF343008FC969 /* PadDragonTigerPokerView.m */; };
 		529709C8167B041E00954B30 /* TouchDetector.m in Sources */ = {isa = PBXBuildFile; fileRef = 529709C7167B041E00954B30 /* TouchDetector.m */; };
 		529709CB167B08F900954B30 /* TouchDetectorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 529709CA167B08F900954B30 /* TouchDetectorView.m */; };
+		5298A60716968C740074687B /* CertificateSigningRequest.certSigningRequest in Resources */ = {isa = PBXBuildFile; fileRef = 5298A60616968C740074687B /* CertificateSigningRequest.certSigningRequest */; };
 		5298D8661676D54D00C3F0B6 /* MarqueeInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 5298D8651676D54D00C3F0B6 /* MarqueeInfo.m */; };
 		5298D86E1677191C00C3F0B6 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5298D86D1677191C00C3F0B6 /* BaseViewController.m */; };
 		5298D8721677195C00C3F0B6 /* PadViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5298D8711677195C00C3F0B6 /* PadViewController.m */; };
@@ -1254,6 +1255,7 @@
 		529709C7167B041E00954B30 /* TouchDetector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TouchDetector.m; path = TouchDetector/TouchDetector.m; sourceTree = "<group>"; };
 		529709C9167B08F900954B30 /* TouchDetectorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TouchDetectorView.h; path = TouchDetector/TouchDetectorView.h; sourceTree = "<group>"; };
 		529709CA167B08F900954B30 /* TouchDetectorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TouchDetectorView.m; path = TouchDetector/TouchDetectorView.m; sourceTree = "<group>"; };
+		5298A60616968C740074687B /* CertificateSigningRequest.certSigningRequest */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CertificateSigningRequest.certSigningRequest; sourceTree = "<group>"; };
 		5298D8641676D54D00C3F0B6 /* MarqueeInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MarqueeInfo.h; path = Data/MarqueeInfo.h; sourceTree = "<group>"; };
 		5298D8651676D54D00C3F0B6 /* MarqueeInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MarqueeInfo.m; path = Data/MarqueeInfo.m; sourceTree = "<group>"; };
 		5298D86C1677191C00C3F0B6 /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
@@ -1561,6 +1563,7 @@
 		525507A616538A8C00019C1B /* ESBall */ = {
 			isa = PBXGroup;
 			children = (
+				5298A60616968C740074687B /* CertificateSigningRequest.certSigningRequest */,
 				52CA2F3B168D4AB900D4AC4E /* Art */,
 				52963D7C167823330016B1CB /* PlistFiles */,
 				44828740166369BA00CCA5ED /* ThirdParty */,
@@ -3494,6 +3497,7 @@
 				52783B4F1694221E009D8028 /* Login_bgs.png in Resources */,
 				52783B501694221E009D8028 /* recordDowns.png in Resources */,
 				52783B511694221E009D8028 /* recordTops.png in Resources */,
+				5298A60716968C740074687B /* CertificateSigningRequest.certSigningRequest in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
