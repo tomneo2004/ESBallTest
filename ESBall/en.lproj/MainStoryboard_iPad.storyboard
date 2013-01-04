@@ -224,7 +224,7 @@
         <!--View Controller-->
         <scene sceneID="Hk1-Lw-EpW">
             <objects>
-                <viewController id="wPP-Pf-DNP" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="asdfsdfasdf" id="wPP-Pf-DNP" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Rtc-zd-b0c">
                         <rect key="frame" x="0.0" y="20" width="768" height="1004"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
